@@ -59,3 +59,17 @@
 [02:37:35] [Server thread/INFO]: kevajsiqjs joined the game
 [02:37:35] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:41703] logged in with entity id 284 at ([world_nether]-295.69999998807907, 51.0, -1209.2617461363502)
 [02:45:50] [Server thread/INFO]: kevajsiqjs has made the advancement [Hidden in the Depths]
+[02:54:53] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode spectator
+[02:54:53] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Spectator Mode]
+[02:55:51] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode survival
+[02:55:51] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Survival Mode]
+[02:55:53] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode creative
+[02:55:53] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Creative Mode]
+[03:00:56] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode spectator
+[03:00:56] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Spectator Mode]
+[03:01:15] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode creative
+[03:01:15] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Creative Mode]
+[03:04:25] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode spectator
+[03:04:25] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Spectator Mode]
+[03:04:34] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode creative
+[03:04:34] [Server thread/INFO]: [kevajsiqjs: Set own game mode to Creative Mode]
