@@ -1,71 +1,60 @@
-[00:38:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:38:45] [main/WARN]: Couldn't get pack info for: java.util.zip.ZipException: error in opening zip file
-[00:38:46] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[00:38:46] [Worker-Main-1/INFO]: Loaded 7 recipes
-[00:38:47] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[00:38:47] [Server thread/INFO]: Loading properties
-[00:38:48] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[00:38:48] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[00:38:48] [Server thread/INFO]: Using 4 threads for Netty based IO
-[00:38:48] [Server thread/INFO]: Debug logging is disabled
-[00:38:48] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
-[00:38:48] [Server thread/INFO]: Default game type: SURVIVAL
-[00:38:48] [Server thread/INFO]: Generating keypair
-[00:38:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:38:49] [Server thread/INFO]: Using epoll channel type
-[00:38:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[00:38:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:38:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:38:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:38:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:38:49] [Server thread/INFO]: Preparing level "world"
-[00:38:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:38:50] [Server thread/INFO]: Preparing spawn area: 0%
-[00:38:50] [Server thread/INFO]: Preparing spawn area: 0%
-[00:38:50] [Server thread/INFO]: Time elapsed: 993 ms
-[00:38:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[00:38:50] [Server thread/INFO]: Time elapsed: 109 ms
-[00:38:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[00:38:51] [Server thread/INFO]: Preparing spawn area: 0%
-[00:38:51] [Server thread/INFO]: Preparing spawn area: 0%
-[00:38:51] [Server thread/INFO]: Preparing spawn area: 0%
-[00:38:52] [Worker-Main-2/INFO]: Preparing spawn area: 100%
-[00:38:52] [Server thread/INFO]: Time elapsed: 1599 ms
-[00:38:52] [Server thread/INFO]: Running delayed init tasks
-[00:38:52] [Server thread/INFO]: Done (4.794s)! For help, type "help"
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_432
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[00:38:52] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[00:38:52] [Server thread/INFO]: Timings Reset
-[00:39:01] [User Authenticator #1/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
-[00:39:02] [Server thread/INFO]: kevajsiqjs joined the game
-[00:39:02] [Server thread/INFO]: kevajsiqjs[/127.4.47.90:43055] logged in with entity id 75 at ([world_nether]-60.86496376323217, 35.16000004768372, -1033.0683145619687)
-[00:41:46] [User Authenticator #2/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
-[00:41:46] [Server thread/INFO]: kevajsiqjs lost connection: You logged in from another location
-[00:41:46] [Server thread/INFO]: kevajsiqjs left the game
-[00:41:47] [Server thread/INFO]: kevajsiqjs joined the game
-[00:41:47] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:42185] logged in with entity id 746 at ([world_nether]-312.18707086482533, 38.0, -1026.9113350399214)
-[00:46:28] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
-[00:46:28] [Server thread/INFO]: kevajsiqjs left the game
-[00:46:35] [User Authenticator #3/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
-[00:46:35] [Server thread/INFO]: kevajsiqjs joined the game
-[00:46:35] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:33255] logged in with entity id 1131 at ([world_nether]-302.75322932401747, 65.0, -1177.1741665486572)
-[00:46:55] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
-[00:46:55] [Server thread/INFO]: kevajsiqjs left the game
-[00:47:21] [User Authenticator #3/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
-[00:47:22] [Server thread/INFO]: kevajsiqjs joined the game
-[00:47:22] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:44569] logged in with entity id 1146 at ([world_nether]-302.75322932401747, 65.0, -1177.1741665486572)
-[00:47:54] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
-[00:47:54] [Server thread/INFO]: kevajsiqjs left the game
+[02:34:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:34:40] [main/WARN]: Couldn't get pack info for: java.util.zip.ZipException: error in opening zip file
+[02:34:40] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[02:34:41] [Worker-Main-1/INFO]: Loaded 7 recipes
+[02:34:42] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[02:34:42] [Server thread/INFO]: Loading properties
+[02:34:42] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[02:34:42] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[02:34:42] [Server thread/INFO]: Using 4 threads for Netty based IO
+[02:34:42] [Server thread/INFO]: Debug logging is disabled
+[02:34:43] [Server thread/WARN]: Invalid sha1 for ressource-pack-sha1
+[02:34:43] [Server thread/INFO]: Default game type: SURVIVAL
+[02:34:43] [Server thread/INFO]: Generating keypair
+[02:34:43] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:34:43] [Server thread/INFO]: Using epoll channel type
+[02:34:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[02:34:43] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:34:43] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:34:43] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:34:43] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:34:43] [Server thread/INFO]: Preparing level "world"
+[02:34:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:34:44] [Server thread/INFO]: Preparing spawn area: 0%
+[02:34:44] [Server thread/INFO]: Preparing spawn area: 0%
+[02:34:45] [Server thread/INFO]: Preparing spawn area: 1%
+[02:34:45] [Server thread/INFO]: Time elapsed: 1054 ms
+[02:34:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[02:34:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:34:45] [Server thread/INFO]: Time elapsed: 276 ms
+[02:34:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[02:34:45] [Server thread/INFO]: Preparing spawn area: 0%
+[02:34:46] [Server thread/INFO]: Preparing spawn area: 0%
+[02:34:46] [Server thread/INFO]: Preparing spawn area: 60%
+[02:34:46] [Server thread/INFO]: Time elapsed: 1346 ms
+[02:34:46] [Server thread/INFO]: Running delayed init tasks
+[02:34:46] [Server thread/INFO]: Done (4.509s)! For help, type "help"
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 1.8.0_432
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[02:34:46] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[02:34:46] [Server thread/INFO]: Timings Reset
+[02:36:07] [User Authenticator #1/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
+[02:36:07] [Server thread/INFO]: kevajsiqjs joined the game
+[02:36:07] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:58819] logged in with entity id 73 at ([world_nether]-295.30000001192093, 51.0, -1206.7082013242511)
+[02:36:40] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
+[02:36:40] [Server thread/INFO]: kevajsiqjs left the game
+[02:37:35] [User Authenticator #2/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
+[02:37:35] [Server thread/INFO]: kevajsiqjs joined the game
+[02:37:35] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:41703] logged in with entity id 284 at ([world_nether]-295.69999998807907, 51.0, -1209.2617461363502)
