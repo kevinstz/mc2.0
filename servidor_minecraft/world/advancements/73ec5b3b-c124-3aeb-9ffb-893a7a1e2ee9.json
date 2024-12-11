@@ -450,6 +450,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-11 00:47:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-10 03:33:44 +0000"
@@ -735,6 +741,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-10 04:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-11 00:47:32 +0000"
     },
     "done": true
   },
@@ -2206,12 +2218,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-11 00:06:32 +0000",
       "minecraft:nether_wastes": "2024-12-10 05:41:39 +0000",
       "minecraft:soul_sand_valley": "2024-12-10 19:33:54 +0000",
       "minecraft:warped_forest": "2024-12-10 05:59:35 +0000",
       "minecraft:basalt_deltas": "2024-12-10 05:56:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
