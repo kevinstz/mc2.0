@@ -247,3 +247,92 @@ java.io.IOException: Server returned HTTP response code: 429 for URL: https://bS
 [04:16:49] [Async Chat Thread - #3/INFO]: <felipeka12345> estoy en minesfat
 [04:17:15] [Async Chat Thread - #3/INFO]: <kevajsiqjs> q
 [04:17:26] [Async Chat Thread - #3/INFO]: <felipeka12345> ya voy subiendo
+[04:17:41] [Server thread/INFO]: kevajsiqjs issued server command: /kits dtools kevajsiqjs
+[04:17:41] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /broadcast kevajsiqjs just got some fancy tools!
+[04:18:01] [Server thread/INFO]: kevajsiqjs issued server command: /eenchant aquaaffinity 1
+[04:18:12] [Server thread/INFO]: kevajsiqjs has made the advancement [Stone Age]
+[04:18:24] [Server thread/INFO]: kevajsiqjs was shot by Skeleton
+[04:18:35] [Server thread/INFO]: kevajsiqjs issued server command: /graves
+[04:19:46] [Async Chat Thread - #4/INFO]: <felipeka12345> bro y ese pico?
+[04:19:55] [Async Chat Thread - #4/INFO]: <felipeka12345> tu tumba esta extraña
+[04:20:02] [Async Chat Thread - #4/INFO]: <kevajsiqjs> y ese xray
+[04:20:33] [Server thread/INFO]: felipeka12345 was shot by Skeleton
+[04:20:41] [Server thread/INFO]: felipeka12345 issued server command: /grave
+[04:20:52] [Server thread/INFO]: kevajsiqjs issued server command: /kits dtools felipeka12345
+[04:20:54] [Server thread/INFO]: kevajsiqjs issued server command: /kits dtools felipeka12345
+[04:21:05] [Server thread/INFO]: kevajsiqjs issued server command: /kits color
+[04:21:05] [Server thread/INFO]: [Essentials] File book.txt does not exist. Creating one for you.
+[04:21:19] [Server thread/INFO]: kevajsiqjs issued server command: /kits color felipeka12345
+[04:21:28] [Server thread/INFO]: kevajsiqjs issued server command: /kits tools
+[04:21:28] [Server thread/INFO]: kevajsiqjs has made the advancement [Getting an Upgrade]
+[04:21:29] [Async Chat Thread - #5/INFO]: <felipeka12345> no me deja abrir mi tumba
+[04:21:30] [Async Chat Thread - #5/INFO]: <felipeka12345> xd
+[04:21:33] [Server thread/INFO]: felipeka12345 issued server command: /grave
+[04:21:56] [Async Chat Thread - #5/INFO]: <kevajsiqjs> es
+[04:21:59] [Async Chat Thread - #5/INFO]: <felipeka12345> no me deja cojer las cosas
+[04:22:01] [Async Chat Thread - #5/INFO]: <kevajsiqjs> graves
+[04:22:05] [Server thread/INFO]: felipeka12345 issued server command: /graves
+[04:22:10] [Async Chat Thread - #5/INFO]: <kevajsiqjs> no grave
+[04:22:15] [Server thread/INFO]: felipeka12345 issued server command: /graves:deathchests
+[04:22:28] [Async Chat Thread - #5/INFO]: <felipeka12345> pero no me deja abrir mi loot
+[04:22:33] [Async Chat Thread - #5/INFO]: <kevajsiqjs> ase
+[04:22:36] [Server thread/INFO]: felipeka12345 issued server command: /graves
+[04:22:38] [Async Chat Thread - #5/INFO]: <kevajsiqjs> shif
+[04:22:47] [Async Chat Thread - #5/INFO]: <kevajsiqjs> y clic
+[04:22:52] [Async Chat Thread - #5/INFO]: <felipeka12345> tampoco
+[04:22:52] [Async Chat Thread - #5/INFO]: <kevajsiqjs> dere
+[04:22:58] [Async Chat Thread - #5/INFO]: <felipeka12345> no me deja
+[04:23:18] [Server thread/INFO]: kevajsiqjs issued server command: /tp felipeka12345
+[04:23:29] [Async Chat Thread - #5/INFO]: <felipeka12345> bro y ese pico?
+[04:23:49] [Async Chat Thread - #5/INFO]: <kevajsiqjs> es de un kit
+[04:23:59] [Async Chat Thread - #5/INFO]: <felipeka12345> como abro el kit
+[04:24:20] [Async Chat Thread - #5/INFO]: <kevajsiqjs> en 6 mins
+[04:24:27] [Async Chat Thread - #5/INFO]: <kevajsiqjs> esq ya lo use
+[04:24:34] [Async Chat Thread - #5/INFO]: <kevajsiqjs> toca esperar
+[04:24:42] [Async Chat Thread - #5/INFO]: <felipeka12345> no pero como abro mi puto loot
+[04:24:52] [pool-4-thread-1/WARN]: Could not submit stats of Paper
+java.io.IOException: Server returned HTTP response code: 429 for URL: https://bStats.org/submitData/server-implementation
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1960) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1556) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
+	at com.destroystokyo.paper.Metrics.sendData(Metrics.java:211) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.Metrics.submitData(Metrics.java:171) ~[patched_1.16.5.jar:git-Paper-794]
+	at com.destroystokyo.paper.Metrics.lambda$startSubmitting$0(Metrics.java:99) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:24:54] [Server thread/INFO]: felipeka12345 was slain by felipeka12345's Zombie
+[04:25:08] [Server thread/INFO]: felipeka12345 issued server command: /graves
+[04:25:29] [bStats-Metrics/WARN]: [CleanPing] Could not submit bStats metrics data
+java.io.IOException: Server returned HTTP response code: 429 for URL: https://bStats.org/api/v2/data/bukkit
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1960) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1556) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
+	at it.frafol.cleanping.bukkit.Metrics$MetricsBase.sendData(Metrics.java:320) ~[?:?]
+	at it.frafol.cleanping.bukkit.Metrics$MetricsBase.lambda$submitData$4(Metrics.java:289) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:26:18] [Async Chat Thread - #6/INFO]: <felipeka12345> esta extraño ese plugin
+[04:26:19] [Server thread/INFO]: kevajsiqjs issued server command: /kits dtools felipeka12345
+[04:26:21] [Async Chat Thread - #6/INFO]: <felipeka12345> de graves
+[04:26:22] [Server thread/INFO]: kevajsiqjs issued server command: /kits dtools felipeka12345
+[04:26:23] [Server thread/INFO]: kevajsiqjs issued server command: /kits dtools felipeka12345
+[04:26:25] [Async Chat Thread - #6/INFO]: <kevajsiqjs> xq
+[04:26:26] [Async Chat Thread - #6/INFO]: <felipeka12345> donde tas
+[04:26:27] [Async Chat Thread - #6/INFO]: <kevajsiqjs> xq
+[04:26:28] [Async Chat Thread - #6/INFO]: <kevajsiqjs> xq
+[04:26:28] [Async Chat Thread - #6/INFO]: <kevajsiqjs> xq
+[04:26:32] [Server thread/INFO]: kevajsiqjs issued server command: /kits dtools felipeka12345
+[04:26:36] [Async Chat Thread - #6/INFO]: <felipeka12345> no me deja abrir mi loot
+[04:26:55] [Async Chat Thread - #6/INFO]: <kevajsiqjs> wifi
+[04:26:59] [Async Chat Thread - #6/INFO]: <felipeka12345> no puedo picar mk
+[04:27:11] [Server thread/INFO]: kevajsiqjs issued server command: /tp felipeka12345
+[04:27:32] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode toggle
+[04:27:38] [Async Chat Thread - #6/INFO]: <felipeka12345> cual es el comando pa el kit
