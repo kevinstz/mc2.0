@@ -336,3 +336,108 @@ java.io.IOException: Server returned HTTP response code: 429 for URL: https://bS
 [04:27:11] [Server thread/INFO]: kevajsiqjs issued server command: /tp felipeka12345
 [04:27:32] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode toggle
 [04:27:38] [Async Chat Thread - #6/INFO]: <felipeka12345> cual es el comando pa el kit
+[04:27:50] [Async Chat Thread - #6/INFO]: <felipeka12345> pq estas en creativo
+[04:27:51] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode survival **
+[04:27:51] [Async Chat Thread - #6/INFO]: <felipeka12345> xD
+[04:27:58] [Server thread/INFO]: kevajsiqjs was slain by felipeka12345
+[04:28:10] [Async Chat Thread - #6/INFO]: <felipeka12345> no puedo picar mk
+[04:28:11] [Server thread/INFO]: kevajsiqjs issued server command: /tp felipeka12345
+[04:28:25] [Async Chat Thread - #6/INFO]: <felipeka12345> dame permisos haber si es por eso
+[04:28:25] [Async Chat Thread - #6/INFO]: <kevajsiqjs> VOY
+[04:28:35] [Server thread/INFO]: kevajsiqjs issued server command: /op felipeka12345
+[04:28:35] [Server thread/INFO]: [kevajsiqjs: Made felipeka12345 a server operator]
+[04:28:49] [Async Chat Thread - #6/INFO]: <felipeka12345> ahora si puedo xd
+[04:28:56] [Async Chat Thread - #6/INFO]: <kevajsiqjs> xd
+[04:28:59] [Async Chat Thread - #6/INFO]: <felipeka12345> pq te pones en creative ?
+[04:29:10] [Async Chat Thread - #6/INFO]: <kevajsiqjs> pa ver q pasaba
+[04:29:14] [Async Chat Thread - #6/INFO]: <felipeka12345> rata
+[04:29:15] [Async Chat Thread - #6/INFO]: <kevajsiqjs> esq
+[04:29:18] [Async Chat Thread - #6/INFO]: <kevajsiqjs> mira
+[04:29:29] [Async Chat Thread - #6/INFO]: <kevajsiqjs> q hay otro modo
+[04:29:36] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode toggle
+[04:29:37] [Async Chat Thread - #6/INFO]: <felipeka12345> mi espada
+[04:29:46] [Server thread/INFO]: kevajsiqjs issued server command: /gamemode survival
+[04:29:52] [Async Chat Thread - #6/INFO]: <kevajsiqjs> hace el comnd
+[04:29:57] [Async Chat Thread - #6/INFO]: <kevajsiqjs> gamemode
+[04:29:58] [Async Chat Thread - #6/INFO]: <felipeka12345> tienes mi espada?
+[04:30:02] [Async Chat Thread - #6/INFO]: <kevajsiqjs> y muta
+[04:30:19] [Server thread/INFO]: felipeka12345 issued server command: /gamemode toggle
+[04:30:22] [Async Chat Thread - #6/INFO]: <kevajsiqjs> dice toggle
+[04:30:25] [Async Chat Thread - #6/INFO]: <felipeka12345> si
+[04:30:27] [Async Chat Thread - #6/INFO]: <kevajsiqjs> algo asi
+[04:30:33] [Async Chat Thread - #6/INFO]: <felipeka12345> y que pasa con eso
+[04:30:35] [Async Chat Thread - #6/INFO]: <kevajsiqjs> y da creative
+[04:30:39] [Async Chat Thread - #6/INFO]: <felipeka12345> bruh
+[04:30:42] [Async Chat Thread - #6/INFO]: <kevajsiqjs> q lo pse
+[04:30:45] [Async Chat Thread - #6/INFO]: <felipeka12345> de k sirve
+[04:30:46] [Async Chat Thread - #6/INFO]: <kevajsiqjs> pa ver
+[04:30:54] [Async Chat Thread - #6/INFO]: <kevajsiqjs> q
+[04:30:56] [Server thread/INFO]: felipeka12345 issued server command: /gamemode toggle
+[04:30:59] [Server thread/INFO]: felipeka12345 issued server command: /gamemode toggle
+[04:31:03] [Async Chat Thread - #6/INFO]: <felipeka12345> de k sirve
+[04:31:06] [Server thread/WARN]: [Essentials] Failed to get data for custom chart with id permsPlugin
+java.lang.IllegalArgumentException: JSON key must not be null
+	at com.earth2me.essentials.libs.bstats.json.JsonObjectBuilder.appendFieldUnescaped(JsonObjectBuilder.java:139) ~[?:?]
+	at com.earth2me.essentials.libs.bstats.json.JsonObjectBuilder.appendField(JsonObjectBuilder.java:55) ~[?:?]
+	at com.earth2me.essentials.libs.bstats.charts.DrilldownPie.getChartData(DrilldownPie.java:37) ~[?:?]
+	at com.earth2me.essentials.libs.bstats.charts.CustomChart.getRequestJsonObject(CustomChart.java:22) ~[?:?]
+	at com.earth2me.essentials.libs.bstats.MetricsBase.lambda$submitData$2(MetricsBase.java:146) ~[?:?]
+	at java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195) ~[?:?]
+	at java.util.HashMap$KeySpliterator.forEachRemaining(HashMap.java:1621) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:550) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) ~[?:?]
+	at java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:517) ~[?:?]
+	at com.earth2me.essentials.libs.bstats.MetricsBase.submitData(MetricsBase.java:148) ~[?:?]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:101) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:485) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1432) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1347) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:31:09] [Async Chat Thread - #6/INFO]: <kevajsiqjs> elq
+[04:31:14] [Async Chat Thread - #6/INFO]: <felipeka12345> pues el tgle
+[04:31:26] [Async Chat Thread - #6/INFO]: <kevajsiqjs> da creative
+[04:31:32] [Async Chat Thread - #6/INFO]: <felipeka12345> pero eso k
+[04:31:38] [Async Chat Thread - #6/INFO]: <kevajsiqjs> ps n ce
+[04:31:41] [Async Chat Thread - #6/INFO]: <kevajsiqjs> xd
+[04:31:45] [Async Chat Thread - #6/INFO]: <felipeka12345> bruh
+[04:31:46] [Async Chat Thread - #6/INFO]: <kevajsiqjs> q
+[04:31:51] [Async Chat Thread - #6/INFO]: <felipeka12345> y si empezamos full vanilla
+[04:32:02] [Server thread/INFO]: kevajsiqjs issued server command: /kit dtools felipeka12345
+[04:32:02] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /broadcast felipeka12345 just got some fancy tools!
+[04:32:24] [Server thread/INFO]: kevajsiqjs fell from a high place
+[04:32:25] [Async Chat Thread - #6/INFO]: <felipeka12345> ta roto ese piko
+[04:32:38] [Server thread/INFO]: kevajsiqjs issued server command: /graves
+[04:32:45] [Async Chat Thread - #6/INFO]: <felipeka12345> bueno y entonces?
+[04:32:52] [Async Chat Thread - #6/INFO]: <felipeka12345> ya vas a dejar el op y eso?
+[04:33:11] [Server thread/INFO]: kevajsiqjs issued server command: /deop kevajsiqjs
+[04:33:11] [Server thread/INFO]: [kevajsiqjs: Made kevajsiqjs no longer a server operator]
+[04:33:27] [Async Chat Thread - #6/INFO]: <felipeka12345> puedes minar?
+[04:33:44] [Async Chat Thread - #6/INFO]: <kevajsiqjs> ño
+[04:33:46] [Server thread/INFO]: felipeka12345 issued server command: /locate village
+[04:34:07] [Async Chat Thread - #6/INFO]: <felipeka12345> y entonces?
+[04:34:12] [Async Chat Thread - #6/INFO]: <felipeka12345> algun plugin esta haciendo algo
+[04:34:16] [Async Chat Thread - #6/INFO]: <kevajsiqjs> esqtoca configurar eso
+[04:34:23] [Async Chat Thread - #6/INFO]: <felipeka12345> y como
+[04:34:25] [Async Chat Thread - #6/INFO]: <felipeka12345> bruh
+[04:34:26] [Async Chat Thread - #6/INFO]: <kevajsiqjs> con
+[04:34:33] [Async Chat Thread - #6/INFO]: <kevajsiqjs> LUCKPERMSS
+[04:34:47] [Async Chat Thread - #6/INFO]: <felipeka12345> y como se configura
+[04:34:48] [Async Chat Thread - #6/INFO]: <felipeka12345> dios
+[04:34:55] [Async Chat Thread - #6/INFO]: <felipeka12345> bro ahora ni podemos minar si no somos op
+[04:34:56] [Async Chat Thread - #6/INFO]: <kevajsiqjs> con un comando
+[04:34:59] [Async Chat Thread - #6/INFO]: <felipeka12345> q mrd
+[04:35:10] [Async Chat Thread - #6/INFO]: <kevajsiqjs> esq ese pluguin
+[04:35:17] [Async Chat Thread - #6/INFO]: <kevajsiqjs> arregla eso
+[04:35:24] [Async Chat Thread - #6/INFO]: <felipeka12345> bruh
+[04:35:28] [Async Chat Thread - #6/INFO]: <kevajsiqjs> q
+[04:35:29] [Async Chat Thread - #6/INFO]: <felipeka12345> arregalo ps
+[04:35:34] [Async Chat Thread - #6/INFO]: <kevajsiqjs> ok
+[04:36:15] [Server thread/INFO]: felipeka12345 issued server command: /give felipeka12345 golden_carrot 64
+[04:36:51] [Async Chat Thread - #7/INFO]: <felipeka12345> voy a buscar aldea
+[04:37:20] [Server thread/INFO]: felipeka12345 issued server command: /tp -896 60 -1456
+[04:37:46] [Server thread/INFO]: felipeka12345 issued server command: /weather clear
