@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.55.243.249
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1734229014344
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1734230101464
+  login: 1734235097593
+money: '0'
+last-account-name: felipeka12345
+lastlocation:
+  world: db7bb887-cc32-498d-a4b4-b453fb7172b6
+  world-name: world
+  x: 173.27989528144067
+  y: 63.0
+  z: -122.95829113788795
+  yaw: 235.99432373046875
+  pitch: -11.208531379699707
+logoutlocation:
+  world: db7bb887-cc32-498d-a4b4-b453fb7172b6
+  world-name: world
+  x: 202.50228170557267
+  y: 63.231523797587016
+  z: -74.87505042062848
+  yaw: 0.458740234375
+  pitch: -56.95130157470703
