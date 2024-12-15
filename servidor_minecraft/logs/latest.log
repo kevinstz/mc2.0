@@ -159,3 +159,91 @@ java.lang.IllegalArgumentException: JSON key must not be null
 [04:07:09] [Async Chat Thread - #0/INFO]: <felipeka12345> bro necesito comida
 [04:07:19] [Async Chat Thread - #0/INFO]: <kevajsiqjs> aver
 [04:07:27] [Async Chat Thread - #0/INFO]: <kevajsiqjs> hace
+[04:07:33] [Async Chat Thread - #0/INFO]: <kevajsiqjs> 7graves
+[04:07:43] [Async Chat Thread - #0/INFO]: <kevajsiqjs> obvi como comando
+[04:07:45] [Async Chat Thread - #0/INFO]: <felipeka12345> -/gravedeathchase
+[04:07:51] [Async Chat Thread - #0/INFO]: <kevajsiqjs> no
+[04:07:53] [Async Chat Thread - #0/INFO]: <felipeka12345> creo q es ese
+[04:07:59] [Server thread/INFO]: kevajsiqjs issued server command: /graves
+[04:08:06] [Async Chat Thread - #0/INFO]: <kevajsiqjs> no
+[04:08:09] [Async Chat Thread - #0/INFO]: <kevajsiqjs> ase
+[04:08:11] [Async Chat Thread - #0/INFO]: <felipeka12345> k
+[04:08:19] [Async Chat Thread - #0/INFO]: <kevajsiqjs> el qye dije
+[04:08:33] [Async Chat Thread - #0/INFO]: <kevajsiqjs> ./graves
+[04:08:40] [Async Chat Thread - #0/INFO]: <felipeka12345> k?
+[04:08:43] [Async Chat Thread - #0/INFO]: <kevajsiqjs> y dale en la q queres
+[04:08:43] [Server thread/INFO]: felipeka12345 issued server command: /graves
+[04:08:50] [Async Chat Thread - #0/INFO]: <felipeka12345> si
+[04:08:51] [Async Chat Thread - #0/INFO]: <felipeka12345> ya se
+[04:08:52] [Async Chat Thread - #0/INFO]: <felipeka12345> bueno
+[04:08:57] [Async Chat Thread - #0/INFO]: <felipeka12345> ya me tepee a una
+[04:09:02] [Async Chat Thread - #0/INFO]: <kevajsiqjs> y hay te deha tp
+[04:09:03] [Async Chat Thread - #0/INFO]: <kevajsiqjs> esp
+[04:09:06] [Async Chat Thread - #0/INFO]: <felipeka12345> bro no se vale
+[04:09:14] [Async Chat Thread - #0/INFO]: <felipeka12345> tenia 24 diamantes y ahora tengo 18
+[04:09:16] [Async Chat Thread - #0/INFO]: <felipeka12345> XD
+[04:10:28] [Async Chat Thread - #1/INFO]: <kevajsiqjs> xd
+[04:10:28] [Server thread/INFO]: kevajsiqjs was slain by Zombie
+[04:10:44] [Server thread/INFO]: felipeka12345 has made the advancement [Cover Me With Diamonds]
+[04:11:23] [Server thread/INFO]: kevajsiqjs drowned whilst trying to escape Skeleton
+[04:11:28] [Async Chat Thread - #2/INFO]: <felipeka12345> bruh
+[04:11:37] [Server thread/INFO]: kevajsiqjs lost connection: Timed out
+[04:11:37] [Server thread/INFO]: kevajsiqjs left the game
+[04:11:38] [User Authenticator #3/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
+[04:11:38] [Server thread/INFO]: kevajsiqjs joined the game
+[04:11:38] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:38837] logged in with entity id 1913 at ([world]181.92186466256604, 61.354841624139766, -118.88960582458611)
+[04:11:45] [Async Chat Thread - #2/INFO]: <felipeka12345> que paso master?
+[04:12:02] [Async Chat Thread - #2/INFO]: <kevajsiqjs> q mi wifi no da
+[04:12:06] [Async Chat Thread - #2/INFO]: <felipeka12345> xD
+[04:12:07] [Async Chat Thread - #2/INFO]: <felipeka12345> x2
+[04:12:37] [Server thread/INFO]: kevajsiqjs lost connection: Disconnected
+[04:12:37] [Server thread/INFO]: kevajsiqjs left the game
+[04:12:48] [Async Chat Thread - #2/INFO]: <felipeka12345> bro mi perro hizo una cagada de 10 bollos re gordos
+[04:12:50] [User Authenticator #4/INFO]: UUID of player kevajsiqjs is 73ec5b3b-c124-3aeb-9ffb-893a7a1e2ee9
+[04:12:50] [Server thread/INFO]: kevajsiqjs joined the game
+[04:12:50] [Server thread/INFO]: kevajsiqjs[/127.130.197.230:58747] logged in with entity id 2237 at ([world]223.69999998807907, 62.41499099849125, -99.30000001192093)
+[04:12:51] [Async Chat Thread - #2/INFO]: <felipeka12345> bro mi perro hizo una cagada de 10 bollos re gordos
+[04:12:52] [Async Chat Thread - #2/INFO]: <felipeka12345> bro mi perro hizo una cagada de 10 bollos re gordos
+[04:13:24] [Async Chat Thread - #2/INFO]: <kevajsiqjs> xddddddddddddddddd
+[04:13:26] [Async Chat Thread - #2/INFO]: <felipeka12345> de lokos
+[04:13:33] [Async Chat Thread - #2/INFO]: <felipeka12345> donde andas
+[04:13:42] [Async Chat Thread - #2/INFO]: <kevajsiqjs> spawm
+[04:13:50] [bStats-Metrics/WARN]: [Graves] Could not submit bStats metrics data
+java.io.IOException: Server returned HTTP response code: 429 for URL: https://bStats.org/api/v2/data/bukkit
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1960) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1556) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:250) ~[?:?]
+	at com.ranull.graves.bstats.MetricsBase.sendData(MetricsBase.java:196) ~[?:?]
+	at com.ranull.graves.bstats.MetricsBase.lambda$submitData$4(MetricsBase.java:161) ~[?:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515) ~[?:?]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:264) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:13:51] [Async Chat Thread - #2/INFO]: <felipeka12345> ya voy
+[04:14:03] [Async Chat Thread - #2/INFO]: <felipeka12345> ultimos diamantes q encuentre y me subo
+[04:14:11] [Async Chat Thread - #2/INFO]: <kevajsiqjs> ok
+[04:14:30] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:14:40] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping:cleanpingreload
+[04:15:29] [Server thread/INFO]: Made kevajsiqjs a server operator
+[04:15:37] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping:cleanpingreload
+[04:15:41] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:44] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:45] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:47] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:47] [Async Chat Thread - #3/INFO]: <felipeka12345> quizque me haces tp uwu?
+[04:15:50] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:51] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:52] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:53] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:53] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:15:55] [Async Chat Thread - #3/INFO]: <felipeka12345> no mentira
+[04:16:04] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping:ping
+[04:16:09] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping
+[04:16:11] [Server thread/INFO]: kevajsiqjs issued server command: /cleanping:ping
+[04:16:37] [Server thread/INFO]: kevajsiqjs issued server command: /kits
+[04:16:46] [Server thread/INFO]: kevajsiqjs issued server command: /kits firework kevajsiqjs
+[04:16:49] [Async Chat Thread - #3/INFO]: <felipeka12345> estoy en minesfat
+[04:17:15] [Async Chat Thread - #3/INFO]: <kevajsiqjs> q
+[04:17:26] [Async Chat Thread - #3/INFO]: <felipeka12345> ya voy subiendo

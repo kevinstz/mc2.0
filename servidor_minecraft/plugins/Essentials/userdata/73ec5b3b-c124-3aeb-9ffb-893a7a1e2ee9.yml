@@ -16,8 +16,10 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1734230126215
-  login: 1734235529625
+  logout: 1734235957803
+  login: 1734235970250
+  kits:
+    firework: 1734236206241
 money: '0'
 last-account-name: kevajsiqjs
 lastlocation:
@@ -31,11 +33,11 @@ lastlocation:
 logoutlocation:
   world: db7bb887-cc32-498d-a4b4-b453fb7172b6
   world-name: world
-  x: 219.5
-  y: 75.0
-  z: -77.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 223.69999998807907
+  y: 63.0
+  z: -99.30000001192093
+  yaw: 83.0994873046875
+  pitch: 84.2999496459961
 homes:
   home:
     world: db7bb887-cc32-498d-a4b4-b453fb7172b6
