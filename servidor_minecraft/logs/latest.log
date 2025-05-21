@@ -1,34 +1,54 @@
-[00:50:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:50:08] [ServerMain/INFO]: Loaded 1337 recipes
-[00:50:09] [ServerMain/INFO]: Loaded 1448 advancements
-[00:50:09] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[00:50:09] [Server thread/INFO]: Loading properties
-[00:50:09] [Server thread/INFO]: Default game type: SURVIVAL
-[00:50:09] [Server thread/INFO]: Generating keypair
-[00:50:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:50:09] [Server thread/INFO]: Using epoll channel type
-[00:50:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:50:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:50:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:50:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:50:09] [Server thread/INFO]: Preparing level "world"
-[00:50:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:50:17] [Server thread/INFO]: Time elapsed: 7992 ms
-[00:50:17] [Server thread/INFO]: Done (8.329s)! For help, type "help"
-[00:51:17] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:42:14] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:42:19] [ServerMain/INFO]: Loaded 1337 recipes
+[01:42:19] [ServerMain/INFO]: Loaded 1448 advancements
+[01:42:20] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:42:20] [Server thread/INFO]: Loading properties
+[01:42:20] [Server thread/INFO]: Default game type: SURVIVAL
+[01:42:20] [Server thread/INFO]: Generating keypair
+[01:42:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:42:20] [Server thread/INFO]: Using epoll channel type
+[01:42:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:42:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:42:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:42:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:42:20] [Server thread/INFO]: Preparing level "world"
+[01:42:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:30] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[01:42:31] [Server thread/INFO]: Time elapsed: 9644 ms
+[01:42:31] [Server thread/INFO]: Done (10.425s)! For help, type "help"
+[01:42:44] [Server thread/INFO]: islencito_777[/127.52.74.228:35213] logged in with entity id 5 at (127.5, 121.6875, 147.5)
+[01:42:44] [Server thread/INFO]: islencito_777 joined the game
+[01:42:53] [Server thread/INFO]: SerkoyGhost9508[/127.233.248.248:34559] logged in with entity id 228 at (893.2153699999318, 70.0, -864.2781554085932)
+[01:42:53] [Server thread/INFO]: SerkoyGhost9508 joined the game
+[01:44:53] [Server thread/INFO]: [Not Secure] <SerkoyGhost9508> 58310.21 62.94 -22652.86
+[01:45:48] [Server thread/INFO]: [Not Secure] <SerkoyGhost9508> x:873.84 y:59.64 z:-957.54
+[01:47:22] [Server thread/INFO]: islencito_777 has made the advancement [Light as a Rabbit]
+[01:54:19] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[01:54:19] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[01:54:19] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[01:54:20] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[01:54:20] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[02:04:57] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[02:04:57] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[02:04:57] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[02:04:57] [Server thread/INFO]: [Not Secure] <islencito_777> z
+[02:04:57] [Server thread/INFO]: [Not Secure] <islencito_777> z
