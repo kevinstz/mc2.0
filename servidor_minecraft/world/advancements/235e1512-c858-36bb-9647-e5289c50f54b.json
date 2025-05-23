@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:flower_forest": "2025-05-23 01:29:10 +0000",
       "minecraft:snowy_slopes": "2025-05-23 01:36:42 +0000",
+      "minecraft:forest": "2025-05-23 03:27:56 +0000",
       "minecraft:deep_dark": "2025-05-20 03:10:13 +0000",
       "minecraft:cherry_grove": "2025-05-20 02:43:33 +0000",
       "minecraft:sunflower_plains": "2025-05-20 02:41:48 +0000",
@@ -1374,6 +1375,36 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-05-23 03:11:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-23 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-23 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2025-05-23 03:21:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-05-23 03:26:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-23 03:26:11 +0000"
     },
     "done": true
   },
