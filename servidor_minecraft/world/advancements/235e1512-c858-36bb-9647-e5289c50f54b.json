@@ -691,6 +691,7 @@
       "cooked_porkchop": "2025-05-20 02:55:28 +0000",
       "mutton": "2025-05-20 02:55:18 +0000",
       "rotten_flesh": "2025-05-20 03:09:11 +0000",
+      "enchanted_golden_apple": "2025-05-23 03:11:15 +0000",
       "cooked_beef": "2025-05-20 03:04:22 +0000"
     },
     "done": false
@@ -1361,6 +1362,18 @@
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-05-23 02:01:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-05-23 02:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-23 03:11:08 +0000"
     },
     "done": true
   },
