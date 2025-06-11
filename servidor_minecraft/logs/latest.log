@@ -1,103 +1,50 @@
-[01:38:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:38:30] [ServerMain/INFO]: Loaded 1337 recipes
-[01:38:30] [ServerMain/INFO]: Loaded 1448 advancements
-[01:38:31] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[01:38:31] [Server thread/INFO]: Loading properties
-[01:38:31] [Server thread/INFO]: Default game type: SURVIVAL
-[01:38:31] [Server thread/INFO]: Generating keypair
-[01:38:31] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:38:31] [Server thread/INFO]: Using epoll channel type
-[01:38:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:38:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:38:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:38:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:38:31] [Server thread/INFO]: Preparing level "world"
-[01:38:32] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:42] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[01:38:43] [Server thread/INFO]: Time elapsed: 10594 ms
-[01:38:43] [Server thread/INFO]: Done (11.567s)! For help, type "help"
-[01:38:54] [Server thread/INFO]: tuexmelachupa_2[/127.237.159.98:43139] logged in with entity id 5 at (-234.69573306043006, 66.0, -176.30000001192093)
-[01:38:54] [Server thread/INFO]: tuexmelachupa_2 joined the game
-[01:38:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2793ms or 55 ticks behind
-[01:40:54] [Server thread/INFO]: tuexmelachupa_2 lost connection: Disconnected
-[01:40:54] [Server thread/INFO]: tuexmelachupa_2 left the game
-[01:40:55] [Server thread/WARN]: handleDisconnection() called twice
-[01:41:41] [Server thread/INFO]: K4vin_Z[/127.91.234.104:60603] logged in with entity id 391 at (933.0404698742287, 104.0, -385.3677318596504)
-[01:41:41] [Server thread/INFO]: K4vin_Z joined the game
-[01:41:56] [Server thread/INFO]: K4vin_Z hit the ground too hard
-[01:42:24] [Server thread/INFO]: tuexmelachupa_2[/127.237.159.98:51173] logged in with entity id 1041 at (-234.30211710330903, 66.0, -179.31781798884862)
-[01:42:24] [Server thread/INFO]: tuexmelachupa_2 joined the game
-[01:42:34] [Server thread/INFO]: K4vin_Z was blown up by Creeper
-[01:50:13] [Server thread/INFO]: K4vin_Z fell from a high place
-[01:50:31] [Server thread/INFO]: K4vin_Z was blown up by Creeper
-[01:52:19] [Server thread/INFO]: K4vin_Z was slain by Zombie
-[01:53:26] [Server thread/INFO]: islencito_777[/127.52.74.228:54861] logged in with entity id 4608 at (835.4265516914808, 64.0, -915.3000000119209)
-[01:53:26] [Server thread/INFO]: islencito_777 joined the game
-[01:53:47] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[01:53:48] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[01:53:48] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[01:53:48] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[01:53:48] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[01:53:49] [Server thread/INFO]: [Not Secure] <islencito_777> zz
-[01:53:49] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[01:54:08] [Server thread/INFO]: tuexmelachupa_2 lost connection: Disconnected
-[01:54:08] [Server thread/INFO]: tuexmelachupa_2 left the game
-[01:54:22] [Server thread/INFO]: tuexmelachupa_2[/127.237.159.98:35385] logged in with entity id 5014 at (-215.02228536393903, 22.0, -171.30000001192093)
-[01:54:22] [Server thread/INFO]: tuexmelachupa_2 joined the game
-[01:59:41] [Server thread/INFO]: K4vin_Z was blown up by Creeper
-[02:01:54] [Server thread/INFO]: K4vin_Z was slain by Spider
-[02:06:22] [Server thread/INFO]: tuexmelachupa_2 has made the advancement [Sweet Dreams]
-[02:06:32] [Server thread/INFO]: islencito_777 lost connection: Disconnected
-[02:06:32] [Server thread/INFO]: islencito_777 left the game
-[02:06:37] [Server thread/INFO]: islencito_777[/127.107.36.178:48821] logged in with entity id 11751 at (970.6999999880791, 40.0, -930.6181056082937)
-[02:06:37] [Server thread/INFO]: islencito_777 joined the game
-[02:10:55] [Server thread/INFO]: K4vin_Z lost connection: Disconnected
-[02:10:55] [Server thread/INFO]: K4vin_Z left the game
-[02:11:04] [Server thread/INFO]: K4vin_Z[/127.91.234.104:41351] logged in with entity id 13998 at (-70.69999998807907, 100.0, -28.93549322000447)
-[02:11:04] [Server thread/INFO]: K4vin_Z joined the game
-[02:11:57] [Server thread/INFO]: K4vin_Z fell from a high place
-[02:14:23] [Server thread/INFO]: K4vin_Z drowned
-[02:14:52] [Server thread/INFO]: [Not Secure] <islencito_777> 845 -922
-[02:15:36] [Server thread/INFO]: tuexmelachupa_2 has made the advancement [Monster Hunter]
-[02:16:00] [Server thread/INFO]: tuexmelachupa_2 was slain by Cave Spider
-[02:16:45] [Server thread/INFO]: tuexmelachupa_2 was slain by K4vin_Z
-[02:16:57] [Server thread/INFO]: K4vin_Z was slain by tuexmelachupa_2
-[02:17:36] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[02:17:36] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[02:17:36] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[02:17:37] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[02:17:37] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[02:17:37] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[02:17:37] [Server thread/INFO]: [Not Secure] <islencito_777> z
-[02:17:40] [Server thread/INFO]: K4vin_Z lost connection: Disconnected
-[02:17:40] [Server thread/INFO]: K4vin_Z left the game
-[02:17:45] [Server thread/INFO]: tuexmelachupa_2 lost connection: Disconnected
-[02:17:45] [Server thread/INFO]: tuexmelachupa_2 left the game
-[02:20:16] [Server thread/INFO]: K4vin_Z[/127.91.234.104:37241] logged in with entity id 18583 at (-9.300000011920929, 94.0, 20.433229480294905)
-[02:20:16] [Server thread/INFO]: K4vin_Z joined the game
-[02:23:14] [Server thread/INFO]: K4vin_Z drowned
-[02:32:18] [Server thread/INFO]: islencito_777 lost connection: Disconnected
-[02:32:18] [Server thread/INFO]: islencito_777 left the game
-[02:50:06] [Server thread/INFO]: K4vin_Z lost connection: Disconnected
-[02:50:06] [Server thread/INFO]: K4vin_Z left the game
-[02:51:06] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:51:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:51:41] [ServerMain/INFO]: Loaded 1337 recipes
+[23:51:41] [ServerMain/INFO]: Loaded 1448 advancements
+[23:51:42] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[23:51:42] [Server thread/INFO]: Loading properties
+[23:51:42] [Server thread/INFO]: Default game type: SURVIVAL
+[23:51:42] [Server thread/INFO]: Generating keypair
+[23:51:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:51:42] [Server thread/INFO]: Using epoll channel type
+[23:51:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:51:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:51:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:51:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:51:42] [Server thread/INFO]: Preparing level "world"
+[23:51:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:58] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:59] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[23:51:59] [Server thread/INFO]: Time elapsed: 15904 ms
+[23:51:59] [Server thread/INFO]: Done (16.644s)! For help, type "help"
+[23:52:59] [Server thread/INFO]: Server empty for 60 seconds, pausing
